@@ -25,6 +25,11 @@ header ul {
     font-size: 0.7em;
     display: flex;
     justify-content: space-between;
+    color: #7F7F7F;
+}
+
+ul li:hover {
+    color: blue;
 }
 
 .icon-container {
@@ -143,6 +148,11 @@ header ul {
     font-size: 0.7em;
     background-color: #36413E;
     color: white;
+}
+
+.btn:hover {
+    background-color: gray;
+    color: #306B34;
 }
 
 footer {
